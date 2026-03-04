@@ -1,0 +1,22 @@
+# Coursera Getting and Cleaning Data Project .gitignore
+
+# Data files
+UCI HAR Dataset/
+*.zip
+*.csv
+
+# Instructions and other non-essential files
+"Assignment Instructions.txt"
+
+# Project metadata and artifacts
+_artifacts/
+.gemini/
+.DS_Store
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary files
+tmp/
+*.log
